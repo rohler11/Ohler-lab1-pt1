@@ -6,7 +6,7 @@
 a:visited {
     color: #69696a;
   }
-
+/* it's noted that adding styles to common elements is not kosher, like lines 10-25 */
 ul {
     list-style-type: none;
     padding: 10px;
@@ -52,7 +52,7 @@ body {
     color: #69696a;
     font-family: 'Open Sans', sans-serif;        
 }
-
+/* it's also noted that h1 isn't just for visuals - where you define h1 and for what matters for screen readers and search engines */
 h1 {
     font-family: 'Open Sans', sans-serif; 
     margin: 5px;
