@@ -3,9 +3,6 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-a:visited {
-    color: #69696a;
-  }
 /* it's noted that adding styles to common elements is not kosher, like lines 10-25 */
 ul {
     list-style-type: none;
